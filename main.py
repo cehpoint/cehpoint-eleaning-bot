@@ -66,59 +66,59 @@ def _TermSelect(n, msg, cmd):
 
 def _ReadShort(n, day):
     if n == 1 and day == 1:
-        print("Day 1 \n https://learn.devsecit.com/book/pentest?day=1")
+        print("Day 1 \n https://1minute-school.cehpoint.co.in/pentest/p1.mp4")
     elif n == 1 and day == 2:
-        print("Day 2 \n https://learn.devsecit.com/book/pentest?day=2")
+        print("Day 2 \n https://1minute-school.cehpoint.co.in/pentest/p2.mp4")
     elif n == 1 and day == 3:
-        print("Day 3 \n https://learn.devsecit.com/book/pentest?day=3")
+        print("Day 3 \n https://1minute-school.cehpoint.co.in/pentest/p3.mp4")
     elif n == 1 and day == 4:
-        print("Day 4 \n https://learn.devsecit.com/book/pentest?day=4")
+        print("Day 4 \n https://1minute-school.cehpoint.co.in/pentest/p4.mp4")
     elif n == 1 and day == 5:
-        print("Day 5 \n https://learn.devsecit.com/book/pentest?day=5")
+        print("Day 5 \n https://1minute-school.cehpoint.co.in/pentest/p5.mp4")
         # enter for 2nd option
     if n == 2 and day == 1:
-        print("Day 1 \n https://learn.devsecit.com/book/bounty?day=1")
+        print("Day 1 \n https://1minute-school.cehpoint.co.in/bounty/day1.mp4")
     elif n == 2 and day == 2:
-        print("Day 2 \n https://learn.devsecit.com/book/bounty?day=2")
+        print("Day 2 \n https://1minute-school.cehpoint.co.in/bounty/day2.mp4")
     elif n == 2 and day == 3:
-        print("Day 3 \n https://learn.devsecit.com/book/bounty?day=3")
+        print("Day 3 \n https://1minute-school.cehpoint.co.in/bounty/day3.mp4")
     elif n == 2 and day == 4:
-        print("Day 4 \n https://learn.devsecit.com/book/bounty?day=4")
+        print("Day 4 \n https://1minute-school.cehpoint.co.in/bounty/day4.mp4")
     elif n == 2 and day == 5:
-        print("Day 5 \n https://learn.devsecit.com/book/bounty?day=5")
+        print("Day 5 \n https://1minute-school.cehpoint.co.in/bounty/day5.mp4")
         # enter for 3rd option
     if n == 3 and day == 1:
-        print("Day 1 \n https://learn.devsecit.com/book/security?day=1")
+        print("Day 1 \n https://1minute-school.cehpoint.co.in/security/day1.zip")
     elif n == 3 and day == 2:
-        print("Day 2 \n https://learn.devsecit.com/book/security?day=2")
+        print("Day 2 \n https://1minute-school.cehpoint.co.in/security/day2.zip")
     elif n == 3 and day == 3:
-        print("Day 3 \n https://learn.devsecit.com/book/security?day=3")
+        print("Day 3 \n https://1minute-school.cehpoint.co.in/security/day3.zip")
     elif n == 3 and day == 4:
-        print("Day 4 \n https://learn.devsecit.com/book/security?day=4")
+        print("Day 4 \n https://1minute-school.cehpoint.co.in/security/day4.zip")
     elif n == 3 and day == 5:
-        print("Day 5 \n https://learn.devsecit.com/book/security?day=5")
+        print("Day 5 \n https://1minute-school.cehpoint.co.in/security/day5.zip")
         # enter for 4th option
     if n == 4 and day == 1:
-        print("Day 1 \n https://learn.devsecit.com/book/development?day=1")
+        print("Day 1 \n https://1minute-school.cehpoint.co.in/development/day1.zip")
     elif n == 4 and day == 2:
-        print("Day 2 \n https://learn.devsecit.com/book/development?day=2")
+        print("Day 2 \n https://1minute-school.cehpoint.co.in/development/day2.zip")
     elif n == 4 and day == 3:
-        print("Day 3 \n https://learn.devsecit.com/book/development?day=3")
+        print("Day 3 \n https://1minute-school.cehpoint.co.in/development/day3.zip")
     elif n == 4 and day == 4:
-        print("Day 4 \n https://learn.devsecit.com/book/development?day=4")
+        print("Day 4 \n https://1minute-school.cehpoint.co.in/development/day4.zip")
     elif n == 4 and day == 5:
-        print("Day 5 \n https://learn.devsecit.com/book/development?day=5")
+        print("Day 5 \n https://1minute-school.cehpoint.co.in/development/day5.zip")
         # enter for 5th option
     if n == 5 and day == 1:
-        print("Day 1 \n https://learn.devsecit.com/book/money?day=1")
+        print("Day 1 \n https://1minute-school.cehpoint.co.in/money/day1.zip")
     elif n == 5 and day == 2:
-        print("Day 2 \n https://learn.devsecit.com/book/money?day=2")
+        print("Day 2 \n https://1minute-school.cehpoint.co.in/money/day2.zip")
     elif n == 5 and day == 3:
-        print("Day 3 \n https://learn.devsecit.com/book/money?day=3")
+        print("Day 3 \n https://1minute-school.cehpoint.co.in/money/day3.zip")
     elif n == 5 and day == 4:
-        print("Day 4 \n https://learn.devsecit.com/book/money?day=4")
+        print("Day 4 \n https://1minute-school.cehpoint.co.in/money/day4.zip")
     elif n == 5 and day == 5:
-        print("Day 5 \n https://learn.devsecit.com/book/money?day=5")
+        print("Day 5 \n https://1minute-school.cehpoint.co.in/money/day5.zip")
 
     conf = input("\nDo you want to read next ? (y/n)")
     if conf == 'y':
